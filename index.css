@@ -1,0 +1,58 @@
+body {
+    width: 99vw;
+    height: 99vh;
+    background-color: black;
+    background-image: url('img/bg.jpeg');
+    background-size: cover;
+}
+p {
+    color: white; 
+}
+.wrapper {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+    font-size: 5em;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    width: 99.99vw;
+    height: 99.99vh;
+    background-color: rgba(24, 26, 21, 0.65);
+    z-index: 20;
+    position: fixed;
+    right: 0;
+    top: 0;
+}
+.home__title {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 2.5em;
+}
+.home__info {
+    font-family: 'Work Sans', sans-serif;
+}
+.home__contact {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 1em;
+    background-color: rgb(255, 153, 0);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+.home__contact:hover {
+    cursor: pointer;
+    background-color: rgb(211, 128, 3);
+}
+.wrapper__about {
+    margin-top: 20vh;
+}
+.icons {
+    display: inline;
+    font-size: 2em;
+}
+a {
+    color: inherit; 
+    text-decoration: inherit; 
+  }
+
