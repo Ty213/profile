@@ -1,6 +1,6 @@
 body {
     width: 98vw;
-    height: 98vh;
+    height: 97vh;
     background-color: black;
     background-image: url('img/bg.jpeg');
     background-size: cover;
@@ -13,7 +13,7 @@ p {
     margin: 0 auto;
     text-align: center;
     color: white;
-    width: 99vw;
+    width: 100vw;
     height: 100vh;
     background-color: rgba(24, 26, 21, 0.65);
     z-index: 20;
