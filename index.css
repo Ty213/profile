@@ -24,7 +24,7 @@ p {
 }
 .home__title {
     font-family: 'Work Sans', sans-serif;
-    font-size: 2.5em;
+    font-size: 2em;
 }
 .home__info {
     font-family: 'Work Sans', sans-serif;
@@ -49,7 +49,7 @@ p {
 }
 .icons {
     display: inline;
-    font-size: 2em;
+    font-size: 1em;
 }
 a {
     color: inherit; 
