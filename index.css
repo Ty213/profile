@@ -21,11 +21,11 @@ p {
     left: 0;
     top: 0;
 }
-.home__title {
+.home__title{
     font-family: 'Work Sans', sans-serif;
     font-size: 4em;
 }
-.home__info {
+.home__info, .portfolio__title {
     font-family: 'Work Sans', sans-serif;
     font-size: 2em;
 }
@@ -47,6 +47,9 @@ p {
 .wrapper__about {
     margin-top: 20vh;
 }
+.wrapper__portfolio {
+    margin-top: 10vh;
+}
 .icons {
     display: inline;
     font-size: 2em;
@@ -63,4 +66,23 @@ a {
     bottom: 0;
     transform: translate(-50%, 0);
   }
-
+  .loadPortfolio:hover {
+    cursor: pointer;
+    color: rgb(211, 128, 0);
+  }
+  .loadWelcome {
+    color: white;
+    font-size: 4em;
+    position: fixed;
+    left: 50%;
+    top: 0;
+    transform: translate(-50%, 0);
+    display: none;
+  }
+  .loadWelcome:hover {
+    cursor: pointer;
+    color: rgb(211, 128, 0);
+  }
+  .wrapper__portfolio {
+      display: none;
+  }
