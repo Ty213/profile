@@ -55,4 +55,12 @@ a {
     color: inherit; 
     text-decoration: inherit; 
   }
+  .loadPortfolio {
+    color: white;
+    font-size: 4em;
+    position: fixed;
+    left: 50%;
+    bottom: 0;
+    transform: translate(-50%, 0);
+  }
 
