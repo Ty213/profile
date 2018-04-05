@@ -54,9 +54,6 @@ p {
     display: inline;
     font-size: 2em;
 }
-.icons:hover {
-    color:  rgb(211, 128, 3);
-}
 a {
     color: inherit; 
     text-decoration: inherit; 
