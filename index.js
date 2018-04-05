@@ -14,5 +14,6 @@ loadPortfolio.addEventListener("click",function() {
 upButton.addEventListener("click", function() {
     about.style.display = "block";
     downButton.style.display = "block";
-    upButton.style.display = "none"; 
+    upButton.style.display = "none";
+    portfolio.style.display = "none";
 })
