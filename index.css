@@ -89,3 +89,11 @@ a {
   .wrapper__portfolio {
       display: none;
   }
+  .img__gallery img {
+      width: 200px;
+      height: 200px;
+      margin: 30px;
+  }
+  .img__gallery {
+      padding-top: 30px;
+  }
